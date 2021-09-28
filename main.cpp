@@ -8,6 +8,7 @@
 std::string profaneWords[]{
     "fuck",
     "shit",
+    "yourmum",
 };
 
 std::string calculateProfaneCover(std::string toProfane, char profaneCharacter = '*') {
